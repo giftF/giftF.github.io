@@ -33,11 +33,11 @@
     </author>
     <id>http://example.com/2026/04/29/hello-world/</id>
     <link href="http://example.com/2026/04/29/hello-world/"/>
-    <published>2026-04-29T00:02:58.350Z</published>
+    <published>2026-04-29T00:02:58.000Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-04-29T14:14:59.890Z</updated>
+    <updated>2026-04-29T14:14:59.880Z</updated>
   </entry>
 </feed>
