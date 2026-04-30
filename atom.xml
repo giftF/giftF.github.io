@@ -11,7 +11,27 @@
   <rights>All rights reserved 2026, gift</rights>
   <subtitle>生如盛夏繁花，极尽绚烂与热烈；死若深秋落叶，归于宁静与温柔。</subtitle>
   <title>gift 的博客</title>
-  <updated>2026-04-29T14:22:08.370Z</updated>
+  <updated>2026-04-30T03:45:26.920Z</updated>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="博客搭建" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    <category term="GitHub Pages" scheme="http://example.com/tags/GitHub-Pages/"/>
+    <category term="静态网站" scheme="http://example.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    <id>http://example.com/2026/04/30/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="http://example.com/2026/04/30/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <published>2026-04-29T23:51:09.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>一直想搭建一个自己的博客，用来记录和分享一些日常的生活和学到的新东西。<br>之前有想过完全自己写前后端（vue +]]>
+    </summary>
+    <title>使用Hexo搭建个人博客</title>
+    <updated>2026-04-30T03:45:26.920Z</updated>
+  </entry>
   <entry>
     <author>
       <name>gift</name>
