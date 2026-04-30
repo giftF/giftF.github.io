@@ -60,4 +60,60 @@
     <title>Hello World</title>
     <updated>2026-04-29T16:17:15.710Z</updated>
   </entry>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="仙台" scheme="http://example.com/tags/%E4%BB%99%E5%8F%B0/"/>
+    <category term="两日游" scheme="http://example.com/tags/%E4%B8%A4%E6%97%A5%E6%B8%B8/"/>
+    <id>http://example.com/2025/11/30/%E4%BB%99%E5%8F%B0%E4%B8%A4%E6%97%A5%E6%B8%B8/</id>
+    <link href="http://example.com/2025/11/30/%E4%BB%99%E5%8F%B0%E4%B8%A4%E6%97%A5%E6%B8%B8/"/>
+    <published>2025-11-30T08:50:26.000Z</published>
+    <summary>
+      <![CDATA[<p>这是来日本以后第一次两日游，因为东京周边一天以内的地方基本上都逛完了，加上之前光了东京的鲁迅相关的经典，所以一直在计划一场仙台寻找鲁迅足迹的旅行。</p>
+<p>本来这场旅行应该是在10月的，但是因为一到周末就不想动弹，所以一直拖到了11月。好不容易出门回来，又拖了一周才完]]>
+    </summary>
+    <title>仙台两日游</title>
+    <updated>2026-04-30T09:28:43.390Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生日" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5/"/>
+    <id>http://example.com/2025/09/17/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/</id>
+    <link href="http://example.com/2025/09/17/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/"/>
+    <published>2025-09-17T08:24:53.000Z</published>
+    <summary>
+      <![CDATA[<p>今天，是我的生日。岁月无声，却总在提醒我们：时间在走，人生在行。</p>
+<p>过去的一年，有收获，也有遗憾。每一次选择、每一次坚持，都是对自己的历练。生活不会总是完美，但正是这些曲折与挑战，让我们逐渐学会成长与担当。</p>
+<p>在这个属于自己的日子里，我想对自己说：<]]>
+    </summary>
+    <title>生日快乐！给自己的一封信</title>
+    <updated>2026-04-30T08:30:37.010Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="浅草寺" scheme="http://example.com/tags/%E6%B5%85%E8%8D%89%E5%AF%BA/"/>
+    <category term="夜游" scheme="http://example.com/tags/%E5%A4%9C%E6%B8%B8/"/>
+    <id>http://example.com/2025/09/17/%E5%A4%9C%E6%B8%B8%E6%B5%85%E8%8D%89%E5%AF%BA/</id>
+    <link href="http://example.com/2025/09/17/%E5%A4%9C%E6%B8%B8%E6%B5%85%E8%8D%89%E5%AF%BA/"/>
+    <published>2025-09-17T03:32:49.000Z</published>
+    <summary>
+      <![CDATA[<p>一个人过生日，多少还是会泛起几分孤单。但我始终觉得，仪式感不能轻易缺席。于是像去年一样，下班后便独自走向浅草寺。</p>
+<p><img src="https://giftqf.cn/blog/webp/yyqcs/yyqcs2.webp"]]>
+    </summary>
+    <title>夜游浅草寺</title>
+    <updated>2026-04-30T08:51:20.470Z</updated>
+  </entry>
 </feed>
