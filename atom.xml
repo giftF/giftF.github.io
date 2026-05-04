@@ -36,34 +36,6 @@
     <author>
       <name>gift</name>
     </author>
-    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2026/04/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-    <link href="http://example.com/2026/04/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <published>2026-04-29T00:08:30.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink"]]>
-    </summary>
-    <title>我的第一篇文章</title>
-    <updated>2026-04-29T14:22:08.370Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>gift</name>
-    </author>
-    <id>http://example.com/2026/04/29/hello-world/</id>
-    <link href="http://example.com/2026/04/29/hello-world/"/>
-    <published>2026-04-29T00:02:58.000Z</published>
-    <summary>
-      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
-    </summary>
-    <title>Hello World</title>
-    <updated>2026-04-29T16:17:15.710Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>gift</name>
-    </author>
     <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
     <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
     <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
