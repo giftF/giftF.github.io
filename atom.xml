@@ -11,7 +11,27 @@
   <rights>All rights reserved 2026, gift</rights>
   <subtitle>生如盛夏繁花，极尽绚烂与热烈；死若深秋落叶，归于宁静与温柔。</subtitle>
   <title>gift 的博客</title>
-  <updated>2026-05-04T02:14:53.540Z</updated>
+  <updated>2026-05-04T16:11:28.230Z</updated>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
+    <category term="探店" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/%E6%8E%A2%E5%BA%97/"/>
+    <category term="探店" scheme="http://example.com/tags/%E6%8E%A2%E5%BA%97/"/>
+    <category term="池袋" scheme="http://example.com/tags/%E6%B1%A0%E8%A2%8B/"/>
+    <category term="牛肉面" scheme="http://example.com/tags/%E7%89%9B%E8%82%89%E9%9D%A2/"/>
+    <id>http://example.com/2026/05/05/%E4%B8%80%E8%99%8E%E5%8F%B0%E6%B9%BE%E7%89%9B%E8%82%89%E9%9D%A2%E6%8E%A2%E5%BA%97/</id>
+    <link href="http://example.com/2026/05/05/%E4%B8%80%E8%99%8E%E5%8F%B0%E6%B9%BE%E7%89%9B%E8%82%89%E9%9D%A2%E6%8E%A2%E5%BA%97/"/>
+    <published>2026-05-04T15:14:47.000Z</published>
+    <summary>
+      <![CDATA[<p>今天在家看视频，看见视频里吃牛肉面，突然自己也特别想吃，就在小红书和大众点评上搜了一下，发现了这家一虎牛肉ラーメン，所以就背着包直奔池袋来了。</p>
+<h2 id="店铺基本信息"><a href="#店铺基本信息" class="headerlink"]]>
+    </summary>
+    <title>【东京探店】一虎台湾牛肉面</title>
+    <updated>2026-05-04T16:11:28.230Z</updated>
+  </entry>
   <entry>
     <author>
       <name>gift</name>
@@ -56,8 +76,8 @@
       <name>gift</name>
     </author>
     <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
-    <category term="生日" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5/"/>
     <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生日" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5/"/>
     <id>http://example.com/2025/09/17/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/</id>
     <link href="http://example.com/2025/09/17/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/"/>
     <published>2025-09-17T08:24:53.000Z</published>
