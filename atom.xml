@@ -56,8 +56,8 @@
       <name>gift</name>
     </author>
     <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     <category term="生日" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5/"/>
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     <id>http://example.com/2025/09/17/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/</id>
     <link href="http://example.com/2025/09/17/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/"/>
     <published>2025-09-17T08:24:53.000Z</published>
