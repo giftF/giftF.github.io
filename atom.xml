@@ -11,14 +11,14 @@
   <rights>All rights reserved 2026, gift</rights>
   <subtitle>生如盛夏繁花，极尽绚烂与热烈；死若深秋落叶，归于宁静与温柔。</subtitle>
   <title>gift 的博客</title>
-  <updated>2026-05-04T16:11:28.230Z</updated>
+  <updated>2026-05-19T13:19:52.700Z</updated>
   <entry>
     <author>
       <name>gift</name>
     </author>
     <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
-    <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
-    <category term="探店" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/%E6%8E%A2%E5%BA%97/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%A5%E6%9C%AC/"/>
+    <category term="探店" scheme="http://example.com/categories/%E6%8E%A2%E5%BA%97/"/>
     <category term="探店" scheme="http://example.com/tags/%E6%8E%A2%E5%BA%97/"/>
     <category term="池袋" scheme="http://example.com/tags/%E6%B1%A0%E8%A2%8B/"/>
     <category term="牛肉面" scheme="http://example.com/tags/%E7%89%9B%E8%82%89%E9%9D%A2/"/>
@@ -30,14 +30,14 @@
 <h2 id="店铺基本信息"><a href="#店铺基本信息" class="headerlink"]]>
     </summary>
     <title>【东京探店】一虎台湾牛肉面</title>
-    <updated>2026-05-04T16:11:28.230Z</updated>
+    <updated>2026-05-19T13:19:52.700Z</updated>
   </entry>
   <entry>
     <author>
       <name>gift</name>
     </author>
     <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    <category term="博客搭建" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客搭建" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
     <category term="GitHub Pages" scheme="http://example.com/tags/GitHub-Pages/"/>
     <category term="静态网站" scheme="http://example.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
@@ -50,14 +50,14 @@
       <![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>一直想搭建一个自己的博客，用来记录和分享一些日常的生活和学到的新东西。<br>之前有想过完全自己写前后端（vue +]]>
     </summary>
     <title>使用Hexo搭建个人博客</title>
-    <updated>2026-05-04T02:14:53.540Z</updated>
+    <updated>2026-05-19T13:19:13.020Z</updated>
   </entry>
   <entry>
     <author>
       <name>gift</name>
     </author>
     <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
-    <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%A5%E6%9C%AC/"/>
     <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     <category term="仙台" scheme="http://example.com/tags/%E4%BB%99%E5%8F%B0/"/>
     <category term="两日游" scheme="http://example.com/tags/%E4%B8%A4%E6%97%A5%E6%B8%B8/"/>
@@ -69,7 +69,7 @@
 <p>本来这场旅行应该是在10月的，但是因为一到周末就不想动弹，所以一直拖到了11月。好不容易出门回来，又拖了一周才完]]>
     </summary>
     <title>仙台两日游</title>
-    <updated>2026-05-04T02:14:53.550Z</updated>
+    <updated>2026-05-19T13:19:27.860Z</updated>
   </entry>
   <entry>
     <author>
@@ -94,7 +94,7 @@
       <name>gift</name>
     </author>
     <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
-    <category term="日本" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/%E6%97%A5%E6%9C%AC/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%A5%E6%9C%AC/"/>
     <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     <category term="浅草寺" scheme="http://example.com/tags/%E6%B5%85%E8%8D%89%E5%AF%BA/"/>
     <category term="夜游" scheme="http://example.com/tags/%E5%A4%9C%E6%B8%B8/"/>
@@ -106,6 +106,6 @@
 <p><img src="https://files.giftqf.cn/blog/webp/yyqcs/yyqcs2.webp"]]>
     </summary>
     <title>夜游浅草寺</title>
-    <updated>2026-05-04T02:14:53.540Z</updated>
+    <updated>2026-05-19T13:19:38.410Z</updated>
   </entry>
 </feed>
