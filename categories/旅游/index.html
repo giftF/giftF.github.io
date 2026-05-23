@@ -322,12 +322,6 @@
       <a class="archives-tag-list-link" href="/tags/%E4%B8%A4%E6%97%A5%E6%B8%B8/">两日游</a>
     </div>
     <div class="archives-tag-list-item" data-aos="zoom-in">
-      <a class="archives-tag-list-link" href="/tags/%E6%B5%85%E8%8D%89%E5%AF%BA/">浅草寺</a>
-    </div>
-    <div class="archives-tag-list-item" data-aos="zoom-in">
-      <a class="archives-tag-list-link" href="/tags/%E5%A4%9C%E6%B8%B8/">夜游</a>
-    </div>
-    <div class="archives-tag-list-item" data-aos="zoom-in">
       <a class="archives-tag-list-link" href="/tags/Hexo/">Hexo</a>
     </div>
     <div class="archives-tag-list-item" data-aos="zoom-in">
@@ -341,6 +335,12 @@
     </div>
     <div class="archives-tag-list-item" data-aos="zoom-in">
       <a class="archives-tag-list-link" href="/tags/%E6%95%99%E7%A8%8B/">教程</a>
+    </div>
+    <div class="archives-tag-list-item" data-aos="zoom-in">
+      <a class="archives-tag-list-link" href="/tags/%E6%B5%85%E8%8D%89%E5%AF%BA/">浅草寺</a>
+    </div>
+    <div class="archives-tag-list-item" data-aos="zoom-in">
+      <a class="archives-tag-list-link" href="/tags/%E5%A4%9C%E6%B8%B8/">夜游</a>
     </div>
     <div class="archives-tag-list-item" data-aos="zoom-in">
       <a class="archives-tag-list-link" href="/tags/%E7%94%9F%E6%97%A5/">生日</a>
@@ -623,7 +623,7 @@
         new APlayer({
           theme: "var(--color-link)",
           container: document.getElementById('aplayer'),
-          audio: [{"name":"一生所爱","artist":"卢冠廷&莫文蔚","url":"https://files.giftqf.cn/music/yssa.mp3","cover":"https://files.giftqf.cn/music/yssa.webp","lrc":"https://files.giftqf.cn/music/rslmm.lrc"}] || [],
+          audio: [{"name":"一生所爱","artist":"卢冠廷&莫文蔚","url":"https://files.giftqf.cn/music/yssa.mp3","cover":"https://files.giftqf.cn/music/yssa.webp","lrc":"https://files.giftqf.cn/music/yssa.lrc"}] || [],
           fixed: isMobile ? true : (false || false),
           autoplay: false || false,
           loop: 'all' || 'all',
@@ -632,7 +632,7 @@
           volume: 0.7 || 0.7,
           mutex: true || true,
           listFolded: false || false,
-          lrcType: 0 || 0,
+          lrcType: 3 || 0,
         });
       }
     }
