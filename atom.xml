@@ -11,7 +11,26 @@
   <rights>All rights reserved 2026, gift</rights>
   <subtitle>生如盛夏繁花，极尽绚烂与热烈；死若深秋落叶，归于宁静与温柔。</subtitle>
   <title>gift 的博客</title>
-  <updated>2026-05-24T01:06:29.560Z</updated>
+  <updated>2026-05-24T11:56:25.860Z</updated>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%A5%E6%9C%AC/"/>
+    <category term="探店" scheme="http://example.com/categories/%E6%8E%A2%E5%BA%97/"/>
+    <category term="探店" scheme="http://example.com/tags/%E6%8E%A2%E5%BA%97/"/>
+    <category term="浅草" scheme="http://example.com/tags/%E6%B5%85%E8%8D%89/"/>
+    <category term="豚骨拉面" scheme="http://example.com/tags/%E8%B1%9A%E9%AA%A8%E6%8B%89%E9%9D%A2/"/>
+    <id>http://example.com/2026/05/24/%E4%B8%80%E6%BE%9C%E6%8B%89%E9%9D%A2%E6%8E%A2%E5%BA%97/</id>
+    <link href="http://example.com/2026/05/24/%E4%B8%80%E6%BE%9C%E6%8B%89%E9%9D%A2%E6%8E%A2%E5%BA%97/"/>
+    <published>2026-05-24T11:06:47.000Z</published>
+    <summary>
+      <![CDATA[<p>好久没出门了，突然觉得该出门去逛一圈，顺便看看能不能找点写博客的素材，同时想到好久没有去吃 <strong>一蘭ラーメン</strong>]]>
+    </summary>
+    <title>【东京探店】一蘭拉面</title>
+    <updated>2026-05-24T11:56:25.860Z</updated>
+  </entry>
   <entry>
     <author>
       <name>gift</name>
@@ -57,11 +76,11 @@
     </author>
     <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
     <category term="博客搭建" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
     <category term="GitHub Pages" scheme="http://example.com/tags/GitHub-Pages/"/>
     <category term="静态网站" scheme="http://example.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     <id>http://example.com/2026/04/30/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <link href="http://example.com/2026/04/30/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <published>2026-04-29T23:51:09.000Z</published>
