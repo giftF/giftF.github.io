@@ -11,7 +11,27 @@
   <rights>All rights reserved 2026, gift</rights>
   <subtitle>生如盛夏繁花，极尽绚烂与热烈；死若深秋落叶，归于宁静与温柔。</subtitle>
   <title>gift 的博客</title>
-  <updated>2026-09-22T21:27:43.020Z</updated>
+  <updated>2026-10-13T07:07:16.060Z</updated>
+  <entry>
+    <author>
+      <name>gift</name>
+    </author>
+    <category term="日本" scheme="http://example.com/categories/%E6%97%A5%E6%9C%AC/"/>
+    <category term="旅游" scheme="http://example.com/categories/%E6%97%85%E6%B8%B8/"/>
+    <category term="御朱印巡り" scheme="http://example.com/categories/%E5%BE%A1%E6%9C%B1%E5%8D%B0%E5%B7%A1%E3%82%8A/"/>
+    <category term="御朱印" scheme="http://example.com/tags/%E5%BE%A1%E6%9C%B1%E5%8D%B0/"/>
+    <category term="日枝神社" scheme="http://example.com/tags/%E6%97%A5%E6%9E%9D%E7%A5%9E%E7%A4%BE/"/>
+    <id>http://example.com/2026/10/13/%E3%80%90%E5%BE%A1%E6%9C%B1%E5%8D%B0%E5%B7%A1%E3%82%8A%E3%80%91%E6%97%A5%E6%9E%9D%E7%A5%9E%E7%A4%BE/</id>
+    <link href="http://example.com/2026/10/13/%E3%80%90%E5%BE%A1%E6%9C%B1%E5%8D%B0%E5%B7%A1%E3%82%8A%E3%80%91%E6%97%A5%E6%9E%9D%E7%A5%9E%E7%A4%BE/"/>
+    <published>2026-10-13T05:52:16.000Z</published>
+    <summary>
+      <![CDATA[<p><em>御朱印巡り，第三站——日枝神社</em></p>
+<p>继明治神宫、东京大神宫之后，我的御朱印巡礼来到了第三站——日枝神社。</p>
+<p>日枝神社位于东京赤坂，隐藏在繁华的商业街和办公区之中。与前两次参拜不同，这次最让我印象深刻的，是神社与周围高楼大厦之间形成的鲜]]>
+    </summary>
+    <title>【御朱印巡り】日枝神社</title>
+    <updated>2026-10-13T07:07:16.060Z</updated>
+  </entry>
   <entry>
     <author>
       <name>gift</name>
@@ -142,11 +162,11 @@
     </author>
     <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
     <category term="博客搭建" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
     <category term="GitHub Pages" scheme="http://example.com/tags/GitHub-Pages/"/>
     <category term="静态网站" scheme="http://example.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
     <id>http://example.com/2026/04/30/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <link href="http://example.com/2026/04/30/%E4%BD%BF%E7%94%A8Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <published>2026-04-29T23:51:09.000Z</published>
